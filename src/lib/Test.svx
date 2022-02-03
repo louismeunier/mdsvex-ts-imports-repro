@@ -1,0 +1,6 @@
+<script>
+    // This line fails
+    import Counter from "@lib/Counter.svelte";
+</script>
+
+<Counter/>
